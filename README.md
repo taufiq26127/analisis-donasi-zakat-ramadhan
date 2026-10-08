@@ -103,14 +103,9 @@ Aisyah Putri (Jakarta) dan Ali Syahputra (Surabaya) adalah dua donatur Platinum.
 
 ### 6. 10 hari terakhir vs sebelumnya
 
-| Periode          | Hari | Transaksi | Total        | Transaksi/hari | Donasi/hari | Rata-rata/transaksi |
-| ---------------- | ---- | --------- | ------------ | -------------- | ----------- | ------------------- |
-| Sebelumnya       | 20   | 33        | Rp34,03 juta | 1,65           | Rp1,70 juta | Rp1,03 juta         |
-| 10 hari terakhir | 10   | 27        | Rp14,25 juta | 2,70           | Rp1,42 juta | Rp528 ribu          |
+![Perbandingan donasi 10 hari terakhir dan periode sebelumnya](gambar/6.png)
 
 Total donasi 10 hari terakhir terlihat lebih kecil karena periodenya separuh, jadi perbandingan dibuat per hari. Hasilnya: donatur lebih sering berdonasi di akhir Ramadan, tetapi dengan nominal lebih kecil.
-
-![Perbandingan donasi 10 hari terakhir dan periode sebelumnya](gambar/6.png)
 
 ### 7. Distribusi dana per mustahik
 
